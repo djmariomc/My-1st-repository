@@ -1,3 +1,3 @@
 # My-1st-repository
-Попытка создания репозитория с кодом на тему "Классы"
-Описание добавлю потом...зуб даю (*_*)
+An attempt to create a repository with code on the topic "Classes".
+An attempt to create a repository with code on the topic "Classes" I'll add a description later...I swear (_)
